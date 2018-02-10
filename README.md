@@ -1,2 +1,2 @@
 # PythonTest
-A quick test of PyCharm
+A couple scripts used for instructing on fundamentals of OOP and Python.
